@@ -5,7 +5,7 @@
 
 ## Overview 👀
 
-![](.gitres/cover.png)
+![]
 
 - **Topic wise question search 🔍**
 - **Topic wise progress 🧐**
@@ -43,7 +43,7 @@
 > Clone the repo
     >> For Windows: Git Bash
     >> For Linux: Terminal
-    >> git clone https://github.com/AsishRaju/450-DSA.git
+    >> git clone https://github.com/ProgrammerShri/DSA-450-Tracker
 > Change the folder location to your source Code Folder
     >> cd 450dsa/src
 > Install the dependencies
@@ -53,14 +53,14 @@
 > 450DSA runs on port 3000 of your Local Machine
 ```
 
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/AsishRaju/450-DSA)
+[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ProgrammerShri/DSA-450-Tracker)
 
 ## Credits 🙏🏻
 
 #### Curated list of question in [450dsa] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
 
 [here]: https://www.youtube.com/watch?v=4iFALQ1ACdA
-[450dsa]: https://450dsa.com/
+[450dsa]: https://dsa450tracker.web.app/
 [love babbar]: https://www.linkedin.com/in/love-babbar-38ab2887/
 [dsa cracker sheet]: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 [localbase]: https://github.com/dannyconnell/localbase
