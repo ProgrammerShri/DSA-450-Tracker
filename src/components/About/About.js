@@ -31,7 +31,7 @@ export default function About({ resetData, exportData, importData }) {
               <Alert.Heading className="text-center">About</Alert.Heading>
               <hr />
               <h4 className="text-center">
-                450 DSA Cracker helps you build your confidence in solving any
+                DSA 450 Tracker helps you build your confidence in solving any
                 coding <br /> related question and helps you prepare for your
                 placements{" "}
                 <span role="img" aria-label="student">
