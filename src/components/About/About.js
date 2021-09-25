@@ -42,7 +42,7 @@ export default function About({ resetData, exportData, importData }) {
           </div>
           <div className="container my-5">
             <h2 className="text-center">
-              <a href="https://dsa450tracker.web.app/">450dsa</a> is your
+              <a href="https://dsa450trackers.web.app/">450dsa</a> is your
               personal web-based progress tracker based on <br></br>
               <i>
                 <a
